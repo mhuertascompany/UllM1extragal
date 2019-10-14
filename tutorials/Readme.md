@@ -1,1 +1,1 @@
-Folder with turoial on ML for galaxy morphology
+Folder with tutorial on ML for galaxy morphology
